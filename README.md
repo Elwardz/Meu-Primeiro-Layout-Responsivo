@@ -64,4 +64,13 @@ Ambos os projetos seguem a mesma estrutura visual e semântica:
 Estudante de Engenharia de Software – Universidade de Pernambuco (UPE)  
 Projeto prático de front-end com foco em HTML, CSS e Responsividade.
 
+---
+
+## 🌐 Acesso ao Projeto
+
+Você pode acessar a versão publicada do layout com CSS Grid aqui:
+
+🔗 [https://elwardz.github.io/Meu-Primeiro-Layout-Responsivo/](https://elwardz.github.io/Meu-Primeiro-Layout-Responsivo/)
+
+
 
