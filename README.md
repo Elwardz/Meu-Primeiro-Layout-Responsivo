@@ -1,10 +1,16 @@
 # 💻 Meu Primeiro Layout Responsivo – Flex e Grid
 
+![image](https://github.com/user-attachments/assets/7534a169-0463-48b2-8de3-b1345304cbb5)
+
+
 Este repositório contém dois projetos desenvolvidos como exercício prático utilizando **HTML semântico**, **CSS Flexbox** e **CSS Grid**. O objetivo foi criar um layout baseado em um modelo proposto, com foco em **responsividade** para diferentes tamanhos de tela.
 
 ---
 
 ## 📁 Estrutura do Repositório
+
+![image](https://github.com/user-attachments/assets/0fa3d7f6-b102-471f-9f44-e085e14dafa8)
+
 
 - `flexbox-layout/`: Projeto utilizando apenas **CSS Flexbox**.
 - `grid-layout/`: Projeto utilizando **CSS Grid combinado com Flexbox**.
