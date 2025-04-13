@@ -4,45 +4,36 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meu Primeiro Layout Responsivo</title>
-    <style>
-        body {
-            background-color: #111;
-            color: #ccc;
-            font-family: Arial, sans-serif;
-            text-align: center;
-            padding: 40px;
-        }
-
-        h1 {
-            color: #00ffcc;
-        }
-
-        a {
-            display: inline-block;
-            margin: 15px;
-            font-size: 18px;
-            color: #00ccff;
-            text-decoration: none;
-            border: 1px solid #00ccff;
-            padding: 10px 20px;
-            border-radius: 8px;
-            transition: background-color 0.3s ease;
-        }
-
-        a:hover {
-            background-color: #00ccff;
-            color: #111;
-        }
-    </style>
+    <title>Layout Grid + Flex</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
-    <h1>🚀 Meu Primeiro Layout Responsivo</h1>
-    <p>Acesse abaixo as duas versões do projeto:</p>
+    <header>
+        header
+        <nav>nav</nav>
+    </header>
 
-    <a href="flexbox/index.html" target="_blank">🔹 Layout com Flexbox</a>
-    <a href="grid/index.html" target="_blank">🔸 Layout com CSS Grid</a>
+    <main>
+        <section class="principal">
+            main
+            <section>
+                <h4>section</h4>
+                <article>article</article>
+                <article>article</article>
+                <article>article</article>
+            </section>
+            <section>section</section>
+        </section>
+
+        <aside>
+            <h4>aside</h4>
+            <section>section</section>
+            <section>section</section>
+        </aside>
+    </main>
+
+    <footer>footer</footer>
 </body>
 
 </html>
